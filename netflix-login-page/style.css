@@ -167,10 +167,10 @@ form .form-help :where(label, a) {
     width: 140px;
   }
 
-  .form-wrapper {
+/*   .form-wrapper {
         width: 100%;
         top: 43%
-    }
+    } */
 
   .form-wrapper form {
     margin: 25px 0 40px;
